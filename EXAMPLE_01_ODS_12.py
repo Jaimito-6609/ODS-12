@@ -7,6 +7,20 @@ Created on Wed May 15 19:41:11 2024
 #==============================================================================
 # EXAMPLE 01 ODS 12
 #==============================================================================
+"""
+According to a study by Wang et al. (2023) the use of advanced algorithms, 
+such as neural networks, improves the accuracy in the recommendation of 
+business projects and resource optimization, particularly in cultural and 
+creative companies. A model based on neural networks demonstrated an accuracy 
+of 81.64% and reduced prediction errors, contributing to the sustainable 
+development of the social economy. This approach highlights how AI can 
+positively influence business efficiency and sustainability.
+
+Wang, Z., Deng, Y., Zhou, S., & Wu, Z. (2023). Achieving sustainable 
+development goal 9: A study of enterprise resource optimization based on 
+artificial intelligence algorithms. Resources Policy, 80, 103212. 
+https://doi.org/10.1016/j.resourpol.2022.103212.
+"""
 
 import pandas as pd
 import numpy as np
